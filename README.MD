@@ -18,6 +18,7 @@ O repositório está organizado da seguinte forma:
 
 - **`Aula 1/`**: Scripts e exercícios da primeira aula, incluindo:
   - `01_media_notas.py`: Calcula a média de 4 notas bimestrais.
+  - `02_celsius_para_fahrenheit.py`: Converte temperatura de Celsius para Fahrenheit.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

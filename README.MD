@@ -20,6 +20,7 @@ O repositório está organizado da seguinte forma:
   - `01_media_notas.py`: Calcula a média de 4 notas bimestrais.
   - `02_celsius_para_fahrenheit.py`: Converte temperatura de Celsius para Fahrenheit.
   - `03_operacoes_numeros.py`: Realiza operações com dois inteiros e um número real.
+  - `04_calculo_salario.py`: Calcula o salário mensal baseado em valor por hora e horas trabalhadas.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

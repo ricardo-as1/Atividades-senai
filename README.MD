@@ -25,6 +25,7 @@ O repositório está organizado da seguinte forma:
 - **`Aula 2/`**: Scripts e exercícios da primeira aula, incluindo:
   - `01_verificacao_paridade.py`: Verifica se o número é par ou ímpar.
   - `02_maior_de_dois.py`: Imprime o maior número entre dois.
+  - `03_verificacao_nums.py`: Verificação de Positivo/Negativo/Zero.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

@@ -26,7 +26,8 @@ O repositório está organizado da seguinte forma:
   - `01_verificacao_paridade.py`: Verifica se o número é par ou ímpar.
   - `02_maior_de_dois.py`: Imprime o maior número entre dois.
   - `03_verificacao_nums.py`: Verificação de Positivo/Negativo/Zero.
-  - `04_classificacao_por_idade.py`: Classificação de idades.
+  - `04_classificacao_por_idade.py`: Classifique uma pessoa como criança, adolescente ou adulto com base na idade fornecida.
+  - `05_notas.py`: Peça ao usuário para inserir uma nota entre 0 e 100 e informe se ele foi aprovado (nota >= 60) ou reprovado.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

@@ -22,6 +22,8 @@ O repositório está organizado da seguinte forma:
   - `03_operacoes_numeros.py`: Realiza operações com dois inteiros e um número real.
   - `04_calculo_salario.py`: Calcula o salário mensal baseado em valor por hora e horas trabalhadas.
   - `05_salario_com_descontos.py`: Calcula salário líquido considerando IR, INSS e sindicato.
+- **`Aula 2/`**: Scripts e exercícios da primeira aula, incluindo:
+  - `01_verificacao_paridade.py`: Verifica se o número é par ou ímpar.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

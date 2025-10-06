@@ -29,6 +29,7 @@ O repositório está organizado da seguinte forma:
   - `04_classificacao_por_idade.py`: Classifique uma pessoa como criança, adolescente ou adulto com base na idade fornecida.
   - `05_notas.py`: Peça ao usuário para inserir uma nota entre 0 e 100 e informe se ele foi aprovado (nota >= 60) ou reprovado.
   - `06_calculadora.py`: Calculadora simples por terminal.
+  - `07_classificacao_de_triangulo.py`: Determina se um triangulo é equilátero, isósceles ou escaleno.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

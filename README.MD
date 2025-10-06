@@ -24,6 +24,7 @@ O repositório está organizado da seguinte forma:
   - `05_salario_com_descontos.py`: Calcula salário líquido considerando IR, INSS e sindicato.
 - **`Aula 2/`**: Scripts e exercícios da primeira aula, incluindo:
   - `01_verificacao_paridade.py`: Verifica se o número é par ou ímpar.
+  - `02_maior_de_dois.py`: Imprime o maior número entre dois.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

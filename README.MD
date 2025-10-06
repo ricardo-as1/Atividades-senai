@@ -31,6 +31,7 @@ O repositório está organizado da seguinte forma:
   - `06_calculadora.py`: Calculadora simples por terminal.
   - `07_classificacao_de_triangulo.py`: Determina se um triangulo é equilátero, isósceles ou escaleno.
   - `08_IMC.py`: Calcula o Índice de Massa Corporal (IMC) e classifique a pessoa conforme o IMC.
+  - `09_ano_bissexto.py`: Determina se um ano fornecido é bissexto ou não.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

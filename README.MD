@@ -28,6 +28,7 @@ O repositório está organizado da seguinte forma:
   - `03_verificacao_nums.py`: Verificação de Positivo/Negativo/Zero.
   - `04_classificacao_por_idade.py`: Classifique uma pessoa como criança, adolescente ou adulto com base na idade fornecida.
   - `05_notas.py`: Peça ao usuário para inserir uma nota entre 0 e 100 e informe se ele foi aprovado (nota >= 60) ou reprovado.
+  - `06_calculadora.py`: Calculadora simples por terminal.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ---

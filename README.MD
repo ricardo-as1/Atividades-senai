@@ -41,6 +41,7 @@ O repositório está organizado da seguinte forma:
   - `06_adivinha.py`: Escolhe aleatoriamente um número entre 1 e 10. O usuário deve tentar adivinhar o número.
   - `07_tabuada.py`: Programa que pede um número ao usuário e imprime a tabuada.
   - `08_divisiveis.py`: Conta quantos números entre 100 e 999 são divisíveis por 3 e 7 simultaneamente.
+  - `09_implementador.py`: Contagem regressiva de 0 a 10 com "Fogo!" no final.
 - **`Desafios/`**: Desafios feitos pelo professor:
   - `jogo_adivinhacao.py`: Escolhe aleatoriamente um número entre 1 e 100. O usuário deve tentar adivinhar o número.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.

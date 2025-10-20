@@ -32,7 +32,7 @@ O repositório está organizado da seguinte forma:
   - `07_classificacao_de_triangulo.py`: Determina se um triangulo é equilátero, isósceles ou escaleno.
   - `08_IMC.py`: Calcula o Índice de Massa Corporal (IMC) e classifique a pessoa conforme o IMC.
   - `09_ano_bissexto.py`: Determina se um ano fornecido é bissexto ou não.
-- **`Aula 2/`**: Scripts e exercícios da primeira aula, incluindo:
+- **`Aula 3/`**: Scripts e exercícios da primeira aula, incluindo:
   - `01_print.py`: Printa no terminal de 1 a 5.
   - `02_print_while.py`: Usando o loop while, imprime os números de 1 a 5.
   - `03_print_names.py`: Imprime 5 nomes em uma lista usando for.

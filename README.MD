@@ -32,6 +32,8 @@ O repositório está organizado da seguinte forma:
   - `07_classificacao_de_triangulo.py`: Determina se um triangulo é equilátero, isósceles ou escaleno.
   - `08_IMC.py`: Calcula o Índice de Massa Corporal (IMC) e classifique a pessoa conforme o IMC.
   - `09_ano_bissexto.py`: Determina se um ano fornecido é bissexto ou não.
+- **`Aula 2/`**: Scripts e exercícios da primeira aula, incluindo:
+  - `01_print.py`: Printa no terminal de 1 a 5.
 - **`Desafios/`**: Desafios feitos pelo professor:
   - `jogo_adivinhacao.py`: Escolhe aleatoriamente um número entre 1 e 100. O usuário deve tentar adivinhar o número.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.

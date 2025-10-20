@@ -37,6 +37,7 @@ O repositório está organizado da seguinte forma:
   - `02_print_while.py`: Usando o loop while, imprime os números de 1 a 5.
   - `03_print_names.py`: Imprime 5 nomes em uma lista usando for.
   - `04_soma.py`: Usando o loop for, soma números entre 0 e 20.
+  - `05_negativo.py`: Pede para o usuário inserir números até que ele insira um número negativo.
 - **`Desafios/`**: Desafios feitos pelo professor:
   - `jogo_adivinhacao.py`: Escolhe aleatoriamente um número entre 1 e 100. O usuário deve tentar adivinhar o número.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.

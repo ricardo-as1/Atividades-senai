@@ -22,7 +22,7 @@ O repositório está organizado da seguinte forma:
   - `03_operacoes_numeros.py`: Realiza operações com dois inteiros e um número real.
   - `04_calculo_salario.py`: Calcula o salário mensal baseado em valor por hora e horas trabalhadas.
   - `05_salario_com_descontos.py`: Calcula salário líquido considerando IR, INSS e sindicato.
-- **`Aula 2/`**: Scripts e exercícios da primeira aula, incluindo:
+- **`Aula 2/`**: Scripts e exercícios da segunda aula, incluindo:
   - `01_verificacao_paridade.py`: Verifica se o número é par ou ímpar.
   - `02_maior_de_dois.py`: Imprime o maior número entre dois.
   - `03_verificacao_nums.py`: Verificação de Positivo/Negativo/Zero.
@@ -32,7 +32,7 @@ O repositório está organizado da seguinte forma:
   - `07_classificacao_de_triangulo.py`: Determina se um triangulo é equilátero, isósceles ou escaleno.
   - `08_IMC.py`: Calcula o Índice de Massa Corporal (IMC) e classifique a pessoa conforme o IMC.
   - `09_ano_bissexto.py`: Determina se um ano fornecido é bissexto ou não.
-- **`Aula 3/`**: Scripts e exercícios da primeira aula, incluindo:
+- **`Aula 3/`**: Scripts e exercícios da terceira aula, incluindo:
   - `01_print.py`: Printa no terminal de 1 a 5.
   - `02_print_while.py`: Usando o loop while, imprime os números de 1 a 5.
   - `03_print_names.py`: Imprime 5 nomes em uma lista usando for.
@@ -43,6 +43,8 @@ O repositório está organizado da seguinte forma:
   - `08_divisiveis.py`: Conta quantos números entre 100 e 999 são divisíveis por 3 e 7 simultaneamente.
   - `09_implementador.py`: Contagem regressiva de 0 a 10 com "Fogo!" no final.
   - `10_primo.py`: Pede ao usuario um número, e imprime todos os números primos menores ou iguais a esse usando for.
+- **`Aula 4/`**: Scripts e exercícios da quarta aula, incluindo:
+  - `01_animais.py`: Printa no terminal o nome de 5 animais diferentes.
 - **`Desafios/`**: Desafios feitos pelo professor:
   - `jogo_adivinhacao.py`: Escolhe aleatoriamente um número entre 1 e 100. O usuário deve tentar adivinhar o número.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.

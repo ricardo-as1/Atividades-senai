@@ -49,6 +49,11 @@ O repositório está organizado da seguinte forma:
   - `03_letras.py`: Uma lista com as primeiras 5 letras do alfabeto e inverte a ordem.
   - `04_maior-dentre.py`: Lista com 10 números aleatórios entre 1 e 100 e encontre o maior e o menor valor.
   - `05_frutas.py`: Lista com os nomes de 5 frutas e peça ao usuário para adicionar mais 3 frutas.
+  - `06_paises.py`: Lista com nomes de 5 países e verifique se um país específico está na lista.  
+  - `07_notas_turma.py`: Lista com as notas de 10 alunos e calcule a média, a maior nota e a menor nota.  
+  - `08_cidades_ordenadas.py`: Lista com os nomes de 5 cidades e ordene a lista em ordem alfabética.  
+  - `09_numeros_impares.py`: Lista com os números de 1 a 10 e remova todos os números pares.  
+  - `10_palavras_usuario.py`: Peça ao usuário para digitar 5 palavras, armazene numa lista e depois imprima essa lista invertida.
 - **`Desafios/`**: Desafios feitos pelo professor:
   - `jogo_adivinhacao.py`: Escolhe aleatoriamente um número entre 1 e 100. O usuário deve tentar adivinhar o número.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.

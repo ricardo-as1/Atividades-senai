@@ -45,6 +45,7 @@ O repositório está organizado da seguinte forma:
   - `10_primo.py`: Pede ao usuario um número, e imprime todos os números primos menores ou iguais a esse usando for.
 - **`Aula 4/`**: Scripts e exercícios da quarta aula, incluindo:
   - `01_animais.py`: Printa no terminal o nome de 5 animais diferentes.
+  - `02_media.py`: Uma lista com 5 números e calcula a média entre eles.
 - **`Desafios/`**: Desafios feitos pelo professor:
   - `jogo_adivinhacao.py`: Escolhe aleatoriamente um número entre 1 e 100. O usuário deve tentar adivinhar o número.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
